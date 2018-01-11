@@ -4,3 +4,4 @@
 [submodule "Swift-FHIR"]
 	path = Swift-FHIR
 	url = https://github.com/trifork/Swift-FHIR.git
+	branch = 2.8.1-trifork
